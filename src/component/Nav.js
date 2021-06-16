@@ -15,7 +15,6 @@ const Nav = (props) =>{
                     </div>
                 </div>
                 <div className="collapse navbar-collapse flex-grow-1 text-right" id="myNavbar7">
-                    
                     <form className="form-inline my-2 my-lg-0  ml-auto flex-nowrap" >
                     <input className="form-control mr-sm-2" 
                         type="search" 

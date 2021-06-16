@@ -47,3 +47,10 @@
       }
   }
   
+  .card-header .text-primary,
+  .card-header h5 {
+    text-transform: capitalize;
+}
+.text-left.m-0{
+  color: #fff;
+}
